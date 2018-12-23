@@ -1,14 +1,16 @@
 {
-	"folders": [
-		{
-			"path": "C:\\DEV\\git\\EED-Solutions\\WebII"
-		},
+    "folders": [
 		{
 			"path": "C:\\DEV\\git\\Python_test"
 		},
 		{
 			"path": "C:\\DEV\\git\\EED-Solutions\\WebI"
+		},
+		{
+			"path": "C:\\DEV\\git\\vs"
+		},
+		{
+			"path": "C:\\DEV\\git\\WebII"
 		}
-	],
-	"settings": {}
+	]
 }
