@@ -3,7 +3,7 @@
 ## cool plugins
 
 - git lens
-- Anaconda Extension Pack
+- Anaconda Extension Pack -> Python debugger included?
 - Markdown Preview
 - Maekdownlinit
 - GIthub Pull requests
@@ -24,6 +24,7 @@
 - strg + c - quit infinite loop
 - strg + shift +  P
 - strg + k  s save all (Press ctrl + k, release and thren press s)
+
 
 ## Git workflow
 
@@ -50,3 +51,7 @@ run git pull first, before appliying the basic worklfow
 
 open an Terminal (Python)
 PS C:\DEV\git\Python_test> & python -m pip install -U autopep8
+
+## Using debugger
+
+[Debugging](https://code.visualstudio.com/Docs/editor/debugging)
