@@ -22,7 +22,7 @@
 - [Shortcuts](https://www.microsoft.com/germany/techwiese/know-how/visual-studio-code-keyboard-shortcuts)
 - Strg + # - mulitline Comment
 - strg + c - quit infinite loop
-- strg + shift +  P
+- strg + shift +  P or F1
 - strg + k  s save all (Press ctrl + k, release and thren press s)
 
 
