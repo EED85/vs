@@ -25,7 +25,6 @@
 - strg + shift +  P or F1
 - strg + k  s save all (Press ctrl + k, release and thren press s)
 
-
 ## Git workflow
 
 ### basic workflow - One Person / One PC
