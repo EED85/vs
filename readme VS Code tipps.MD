@@ -32,6 +32,12 @@
 1. "" -> git commit all
 2. -> git push
 
+#### commiting one specific file
+
+1. git stage changes ("git sc")
+2. git commit changes
+3. git push
+
 ### Using several PCs
 
 run git pull first, before appliying the basic worklfow
