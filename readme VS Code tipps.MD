@@ -30,6 +30,7 @@
 ### basic workflow - One Person / One PC
 
 1. "" -> git commit all
+    adds all changes and untracked files and commits them
 2. -> git push
 
 #### commiting one specific file
