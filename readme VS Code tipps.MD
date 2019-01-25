@@ -14,17 +14,21 @@
 ## using terminals
 
 - use one powershell and one for python
-  - with powershell you can use git commands and pip install 
+  - with powershell you can use git commands and pip install
   - with python you can print out / manipulate python stuff
 
 ## Shortcuts
 
 - [Shortcuts](https://www.microsoft.com/germany/techwiese/know-how/visual-studio-code-keyboard-shortcuts)
-- Strg + # - mulitline Comment
-- strg + c - quit infinite loop
-- strg + shift +  P or F1
-- strg + k  s save all (Press ctrl + k, release and thren press s)
-- strg + p - open a file from your workspace
+- Ctrl + c - quit infinite loop
+- Ctrl + # - mulitline Comment
+- Ctrl + k  s save all (Press ctrl + k, release and thren press s)
+- Ctrl + shift +  P or F1
+- Ctrl + p - open a file from your
+- Ctrl+K V -> Edit markdown Files side by side
+- Ctrl+Shift+M -> view Errors
+- shift+alt+f12 -> find all occurences in file
+- Rename Variable with f2 instead of replacing
 
 ## Git workflow
 
