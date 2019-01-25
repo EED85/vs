@@ -14,7 +14,7 @@
 ## using terminals
 
 - use one powershell and one for python
-  - with powershell you can use git commands
+  - with powershell you can use git commands and pip install 
   - with python you can print out / manipulate python stuff
 
 ## Shortcuts
@@ -24,6 +24,7 @@
 - strg + c - quit infinite loop
 - strg + shift +  P or F1
 - strg + k  s save all (Press ctrl + k, release and thren press s)
+- strg + p - open a file from your workspace
 
 ## Git workflow
 
