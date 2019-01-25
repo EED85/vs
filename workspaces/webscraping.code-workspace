@@ -1,9 +1,6 @@
 {
     "folders": [
 		{
-			"path": "C:\\DEV\\git\\Python_test"
-		},
-		{
 			"path": "C:\\DEV\\git\\EED-Solutions\\WebI"
 		},
 		{
@@ -14,6 +11,13 @@
 		},
 		{
 			"path": "C:\\Users\\EricBrahmann\\EED-Solutions by Eric Brahmann\\Ideal Dental - Dateien Code"
+		},
+		{
+			"path": "C:\\DEV\\git\\Python_basics_4_Data-Science"
+		},
+		{
+			"path": "C:\\DEV\\git\\Python_basics_4_Data-Science_wiki\\Python_basics_4_Data-Science.wiki",
+			"name": "Python_basics_4_Data-Science.wiki"
 		}
 	]
 }
