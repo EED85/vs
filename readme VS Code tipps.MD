@@ -30,6 +30,10 @@
 - shift+alt+f12 -> find all occurences in file
 - Rename Variable with f2 instead of replacing
 
+## create custom Code snipets
+
+[Link](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
+
 ## Git workflow
 
 ### basic workflow - One Person / One PC
